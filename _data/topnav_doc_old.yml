@@ -1,0 +1,56 @@
+# Topnav single links
+# if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
+topnav:
+- title: Topnav
+  subcategories:
+    - title: Github Repository
+      external_url: https://github.com/DeepLearningStudy
+      audience: writers, designers
+      platform: all
+      product: all
+      version: all
+
+topnav:
+- title: Topnav_facebook
+  subcategories:
+    - title: Facebook Group
+      external_url: https://www.facebook.com/groups/caffestudy/
+      audience: writers, designers
+      platform: all
+      product: all
+      version: all
+
+#Topnav dropdowns
+topnav_dropdowns:
+- title: Topnav dropdowns
+  subcategories:
+    - title: Resources
+      audience: writers, designers
+      platform: all
+      product: all
+      version: all
+      items:
+        - title: About this theme
+          url: /doc_about.html
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+        - title: Support
+          url: /doc_support.html
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+        - title: Troubleshooting
+          external_url: ../somedirectory/doc_troubleshooting.html
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+        - title: Jekyll Talk
+          external_url: https://talk.jekyllrb.com
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all

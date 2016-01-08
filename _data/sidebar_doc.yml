@@ -1,0 +1,168 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+# Sidebar
+entries:
+- title: Sidebar
+  subcategories:
+    - title: Frontmatter # leave this frontmatter section here for PDF outputs
+      audience: writers, designers
+      platform: all
+      product: all
+      version: all
+      web: false
+      items:
+        - title: Title Page
+          url: /titlepage.html
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+          web: false
+          frontmatter: true
+
+        - title: Table of Contents
+          url: /tocpage.html
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+          web: false
+          frontmatter: true
+
+    - title: Deep Learning
+      audience: writers, designers
+      platform: all
+      product: all
+      version: all
+      print: true
+      items:
+        - title: Introduction
+          url: /doc_deeplearning_intro.html
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+        - title: Sites
+          url: /doc_deeplearning_site.html
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+        - title: Papers
+          url: /doc_deeplearning_paper.html
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+        - title: Video lectures
+          url: /doc_deeplearning_video.html
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+    - title: Caffe
+      audience: writers, designers
+      platform: all
+      product: all
+      version: all
+      print: true
+      items:
+        - title: Introduction
+          url: /doc_caffe_intro.html
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+        - title: Installation Ubuntu 14.04
+          url: /doc_caffe_install_ubuntu1404.html
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all  
+        - title: Installation Ubuntu 12.04
+          url: /doc_caffe_install_ubuntu1204.html
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all  
+        - title: Installation Windows 7 64bit
+          url: /doc_caffe_install_windows.html
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all  
+        - title: Installation Mac 10.10
+          url: /doc_caffe_install_mac.html
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all  
+        - title: C++ Example 1. Hello Caffe
+          url: /doc_caffe_example_1hellocaffe.html
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all  
+        - title: C++ Example 2. Blob
+          url: /doc_caffe_example_2blob.html
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all 
+        - title: C++ Example 3. MNIST Dataset (with Python)
+          url: /doc_caffe_example_3mnist.html
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all 
+    - title: TensorFlow
+      audience: writers, designers
+      platform: all
+      product: all
+      version: all
+      print: true
+      items:
+        - title: Introduction
+          url: /doc_tensorflow_intro.html
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+        - title: Installation
+          url: /doc_tensorflow_install.html
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+        - title: Tutorial MNIST
+          url: /doc_tensorflow_tutorial_mnist.html
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+    - title: Applications
+      audience: writers, designers
+      platform: all
+      product: all
+      version: all
+      print: true
+      items:
+        - title: Introduction
+          url: /doc_application_intro.html
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+    - title: Tool and Tips
+      audience: writers, designers
+      platform: all
+      product: all
+      version: all
+      print: true
+      items:
+        - title: iPhthon Notebook
+          url: /doc_tooltip_ipython.html
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
