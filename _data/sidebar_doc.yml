@@ -115,6 +115,18 @@ entries:
           platform: all
           product: all
           version: all 
+        - title: C++ Example 4. Layer
+          url: /doc_caffe_example_4layer.html
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all 
+        - title: C++ Example 5. LogReg with MNIST
+          url: /doc_caffe_example_5logreg.html
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all 
     - title: TensorFlow
       audience: writers, designers
       platform: all

@@ -55,3 +55,9 @@ CVPR 2015에서 열렸던 워크샵 사이트 입니다.
 ImageNet의 창시자 Fei-Fei Li 교수의 스텐포드 대학 강의자료 입니다. 
 
   * [사이트 링크](http://cs231n.stanford.edu/index.html)
+
+### Deep Learning Book by Prof. Bengio group
+대가 중 한명인 Bengio 교수 팀에서 만들고 있는 딥러닝 책 입니다. 머신러닝의 기초부터 최근 딥러닝 연구까지 이론적인 부분이 총 정리되어 있습니다. 계속 작업 업데이트 중인데 출판되기 전에 웹상에 오픈하였네요. 
+
+  * [사이트 링크](http://www.deeplearningbook.org/)
+
